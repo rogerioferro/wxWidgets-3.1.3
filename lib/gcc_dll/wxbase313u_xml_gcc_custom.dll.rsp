@@ -1,0 +1,4 @@
+gcc_mswudll/xmldll_dummy.o 
+gcc_mswudll/xmldll_version_rc.o 
+gcc_mswudll/xmldll_xml.o 
+gcc_mswudll/xmldll_xtixml.o 
