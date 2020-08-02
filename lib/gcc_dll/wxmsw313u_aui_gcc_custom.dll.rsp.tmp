@@ -1,9 +1,0 @@
-gcc_mswudll/auidll_dummy.o 
-gcc_mswudll/auidll_version_rc.o 
-gcc_mswudll/auidll_framemanager.o 
-gcc_mswudll/auidll_dockart.o 
-gcc_mswudll/auidll_floatpane.o 
-gcc_mswudll/auidll_auibook.o 
-gcc_mswudll/auidll_auibar.o 
-gcc_mswudll/auidll_tabmdi.o 
-gcc_mswudll/auidll_tabart.o 
